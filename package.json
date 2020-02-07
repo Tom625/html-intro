@@ -1,0 +1,14 @@
+{
+  "name": "intro-html",
+  "version": "1.0.0",
+  "description": "HTML Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anika Gaur, Thomas George",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
